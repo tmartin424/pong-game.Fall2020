@@ -11,11 +11,12 @@ Move the left paddle by 'w' for up and 's' for down. Move the right paddle by 'u
 * <p>[x] Updated README.md and License</p>
 * <p>[x] Create Roadmap</p>
 * <p>[x] FInd other examples of existing Pong code</p>
-* <p>[ ] Familiarize ourselves with turtle module (video tutorials)</p>
+* <p>[x] Familiarize ourselves with turtle module (video tutorials)</p>
 * <p>[ ] Add sound effects to the game</p>
 * <p>[ ] Create ability for paddles to wrap around screen</p>
 * <p>[ ] Enhance scoreboard capabilities with a timer</p>
 * <p>[ ] Change from 2 player mode to 4 player mode</p>
+* <p>[ ] Add a teams element (red team and lime team) If either player scores it adds to the team score</p>
 
 ## License 
 https://github.com/ksu-is/Pong-Game/blob/master/LICENSE
